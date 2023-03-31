@@ -15,15 +15,15 @@ A test for a junior fullstack dev position.
 As a potential cat owner, I want to get a random cat name and breed, so that I can find a good name and breed combination for my cat.
 
 ## Specifications
-• We want a web application that will allow the visitor to click a button and get a random
+- We want a web application that will allow the visitor to click a button and get a random
 cat name and breed.
-• The cat’s name will randomly be chosen among: Axle, Babbles, Lucy, Jake, Zoe, Lily,
+- The cat’s name will randomly be chosen among: Axle, Babbles, Lucy, Jake, Zoe, Lily,
 Penny, Wallace, Stella, Sarah
-• The cat’s breed will be randomly chosen among: Abyssinian, Aegean, Balinese, Bombay,
+- The cat’s breed will be randomly chosen among: Abyssinian, Aegean, Balinese, Bombay,
 British Shorthair, Chartreux, Maine Coon, Pixie-bob
-• We want to secure the logic of choosing the cat’s name and breed so the name cannot be
+- We want to secure the logic of choosing the cat’s name and breed so the name cannot be
 chosen in the frontend.
-• We don't want to host a database for the names and breeds so they should be part of the
+- We don't want to host a database for the names and breeds so they should be part of the
 backend application.
 
 ### Recommendations
