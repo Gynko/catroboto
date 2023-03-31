@@ -4,6 +4,7 @@ A test for a junior fullstack dev position.
 
 # Table of content <!-- omit in toc -->
 
+- [0. Assignment](# 0. Assignment)
 - [1. Starting point](#1-starting-point)
 - [2. Process](#2-process)
 - [3. Conclusions](#3-conclusions)
