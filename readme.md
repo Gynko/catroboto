@@ -8,6 +8,38 @@ A test for a junior fullstack dev position.
 - [2. Process](#2-process)
 - [3. Conclusions](#3-conclusions)
 
+# 0. Assignment
+
+## User story
+As a potential cat owner, I want to get a random cat name and breed, so that I can find a good name and breed combination for my cat.
+
+## Specifications
+• We want a web application that will allow the visitor to click a button and get a random
+cat name and breed.
+• The cat’s name will randomly be chosen among: Axle, Babbles, Lucy, Jake, Zoe, Lily,
+Penny, Wallace, Stella, Sarah
+• The cat’s breed will be randomly chosen among: Abyssinian, Aegean, Balinese, Bombay,
+British Shorthair, Chartreux, Maine Coon, Pixie-bob
+• We want to secure the logic of choosing the cat’s name and breed so the name cannot be
+chosen in the frontend.
+• We don't want to host a database for the names and breeds so they should be part of the
+backend application.
+
+### Recommendations
+• We prefer the backend to be written in Java with Spring Boot and the frontend in Vue or
+Angular, but you may use other languages/frameworks if you want.
+• We prefer the backend to be a REST API and the frontend a SPA.
+Key points of the challenge
+• Readable and self-explanatory code.
+• Following SOLID principles.
+• Following the MVC pattern.
+Points that will be appreciated but not required
+• Expanding the MVC pattern with DTOs, Services and Factories will be appreciated.
+• Following the Dependency Inversion Principle and using Dependency Injection will be
+appreciated.
+• Test automation will be appreciated.
+• Portable hosting (e.g., using Docker) will be appreciated.
+
 # 1. Starting point
 
 To help you evaluate this work, here was my starting point:
