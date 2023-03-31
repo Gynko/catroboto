@@ -27,19 +27,19 @@ chosen in the frontend.
 backend application.
 
 ### Recommendations
-• We prefer the backend to be written in Java with Spring Boot and the frontend in Vue or
+- We prefer the backend to be written in Java with Spring Boot and the frontend in Vue or
 Angular, but you may use other languages/frameworks if you want.
-• We prefer the backend to be a REST API and the frontend a SPA.
+- We prefer the backend to be a REST API and the frontend a SPA.
 Key points of the challenge
-• Readable and self-explanatory code.
-• Following SOLID principles.
-• Following the MVC pattern.
+- Readable and self-explanatory code.
+- Following SOLID principles.
+- Following the MVC pattern.
 Points that will be appreciated but not required
-• Expanding the MVC pattern with DTOs, Services and Factories will be appreciated.
-• Following the Dependency Inversion Principle and using Dependency Injection will be
+- Expanding the MVC pattern with DTOs, Services and Factories will be appreciated.
+- Following the Dependency Inversion Principle and using Dependency Injection will be
 appreciated.
-• Test automation will be appreciated.
-• Portable hosting (e.g., using Docker) will be appreciated.
+- Test automation will be appreciated.
+- Portable hosting (e.g., using Docker) will be appreciated.
 
 # 1. Starting point
 
